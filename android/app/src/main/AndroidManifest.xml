@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.real_time_chatting_app">
+    package="com.example.chat_app">
    <application
-        android:label="real_time_chatting_app"
+        android:label="chat_app"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

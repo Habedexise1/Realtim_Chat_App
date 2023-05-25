@@ -7,9 +7,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:560532916748:android:50716384b7001941debc29",
+        "mobilesdk_app_id": "1:560532916748:android:01685bf5abb10df3debc29",
         "android_client_info": {
-          "package_name": "com.example.real_time_chatting_app"
+          "package_name": "com.example.chat_app"
         }
       },
       "oauth_client": [

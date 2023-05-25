@@ -1,12 +1,15 @@
 // ignore_for_file: use_build_context_synchronously, prefer_const_constructors
 
 import 'package:flutter/material.dart';
-import 'package:ichat_app/allProviders/auth_provider.dart';
-import 'package:ichat_app/allScreens/home_page.dart';
-import 'package:ichat_app/allScreens/login_page.dart';
+import 'package:chat_app/allProviders/auth_provider.dart';
+import 'package:chat_app/allScreens/home_page.dart';
+import 'package:chat_app/allScreens/login_page.dart';
 import 'package:provider/provider.dart';
 
 import '../allConstants/color_constants.dart';
+import '../allProviders/auth_provider.dart';
+import 'home_page.dart';
+import 'login_page.dart';
 
 class SplashPage extends StatefulWidget {
   const SplashPage({Key? key}) : super(key: key);

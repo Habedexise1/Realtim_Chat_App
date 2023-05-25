@@ -1,4 +1,4 @@
-# real_time_chatting_app
+# chat_app
 
 A new Flutter project.
 
