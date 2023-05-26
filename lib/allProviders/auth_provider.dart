@@ -13,7 +13,7 @@ enum Status {
   authenticated,
   authenticating,
   authenticatrError,
-  authenticateCanceled,
+  authenticateCanceled, authenticationError, authenticationCanceled,
 }
 
 class AuthProvider extends ChangeNotifier {
